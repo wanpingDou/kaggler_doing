@@ -1,4 +1,4 @@
-# Validation and overfitting
+# [Validation and overfitting](https://www.coursera.org/learn/competitive-data-science/lecture/wwGFq/validation-and-overfitting)
 
 ### 为什么你的私榜排名一落千丈？
 
